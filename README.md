@@ -10,11 +10,15 @@
 [![Pigot github stats](https://github-readme-stats.vercel.app/api?Pigot12=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me: | Επικοινωνήστε μαζί μου:
-<a href="https://discord.gg">
-  <img align="left" alt="Pigot Discord" width="22px" src=(reddit.png) />
-</a>[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.reddit.com/user/">
+  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://github.com/Pigot12/Pigot12/blob/main/reddit.png" />
+</a>
 <!-- Optional if you have blogs -->
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
