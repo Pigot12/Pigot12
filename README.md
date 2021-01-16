@@ -32,7 +32,7 @@
 * [![Twitch](https://img.shields.io/badge/-Pigot12_-000?&logo=twitch)](https://www.twitch.tv/pigot12_)
 </a>
 
-* [![Discord](https://img.shields.io/badge/-Link_-000?&logo=discord)](https://discord.gg/JJVYYG9)
+* [![Discord](https://img.shields.io/badge/-Pigot12Server_-000?&logo=discord)](https://discord.gg/JJVYYG9)
 
 </a>
 
@@ -50,9 +50,9 @@
 
 # Stats : | Στατιστικά :
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pigot12&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pigot12&layout=compact&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pigot12&theme=gruvbox" />
-<a href="https://github.com/Pigot12/onlinecoursesvertex" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pigot12&repo=onlinecoursesvertex&theme=gruvbox""></a>
-<a href="https://github.com/Pigot12/smallproject" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pigot12&repo=smallproject&theme=gruvbox""></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pigot12&show_icons=true&count_private=true&theme=merko" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pigot12&layout=compact&count_private=true&theme=merko" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pigot12&theme=merko" />
+<a href="https://github.com/Pigot12/onlinecoursesvertex" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pigot12&repo=onlinecoursesvertex&theme=merko""></a>
+<a href="https://github.com/Pigot12/smallproject" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pigot12&repo=smallproject&theme=merko""></a>
 
