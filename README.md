@@ -1,7 +1,7 @@
 ### Hello There, I'm @Pigot12_ | Καλησπέρα,είμαι ο @Pigot12_ 
 ![](GithubLogo%20(1).png)
 
-[![Website](https://img.shields.io/badge/Website%20Ιστοσελίδα-Click%20Here%20Πατήστε εδώ-red?style=flat-square)](https://google.com)
+[![Website](https://img.shields.io/badge/Website-ClickHere-green?style=flat-square)](https://google.com)
 ## Your short description
 - 🔭 I’m currently working on - ❔❔❔❔
 - 🌱 I’m currently learning - ❔❔❔❔
