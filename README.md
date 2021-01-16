@@ -20,8 +20,8 @@
 
 <a href="https://github.com/kittinan/spotify-github-profile" target="black">
   <img align="right"
-    src="https://spotify-github-profile.vercel.app/api/view?uid=k4jkgsc6vq2boan1t2ajvxvee&cover_image=true"
-    alt="spotify" />
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k4jkgsc6vq2boan1t2ajvxvee&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=k4jkgsc6vq2boan1t2ajvxvee&redirect=true)
+       alt="spotify" />
 </a>
 
 
