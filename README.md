@@ -18,12 +18,7 @@
   <a href="https://www.buymeacoffee.com/pigot12" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 
-<a href="https://github.com/kittinan/spotify-github-profile" target="black">
-  <img align="right"
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k4jkgsc6vq2boan1t2ajvxvee&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=k4jkgsc6vq2boan1t2ajvxvee&redirect=true)
-       alt="spotify" />
-</a>
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k4jkgsc6vq2boan1t2ajvxvee&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 # Contact me: | Επικοινωνήστε μαζί μου:
 
@@ -67,3 +62,5 @@
 
 # Guest Book: | Βιβλίο Επισκεπτών:
 * [![Book](https://img.shields.io/badge/-Book-000?&logo=book)](https://github.com/Pigot12/Pigot12/issues/new)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k4jkgsc6vq2boan1t2ajvxvee&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=k4jkgsc6vq2boan1t2ajvxvee&redirect=true)
