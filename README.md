@@ -8,10 +8,11 @@
 ...
 
 
-* 🔭 I’m currently - a Student
-* 🌱 I’m currently learning - Pytohn
-* 👯 I’m looking to collaborate with - Anything related to Python
-[![Website](https://img.shields.io/badge/-I’m looking to collaborate with - Anything related to Python-000?&logo=java)]()
+* 🏫 I’m currently:  Student
+* 🐍 I’m currently learning: Pytohn
+* 🔍 I’m looking to collaborate with: Anything related to Python
+* 📖 Pronouns: he/him
+
 
 # Buy me a Coffe : | Αγοράστε μου ένα καφεδάκι :
   <a href="https://www.buymeacoffee.com/pigot12" target="_blank" rel="noreferrer nofollow">
@@ -30,8 +31,16 @@
   <img align="left" alt="Pigot | Reddit" width="22px" src="https://github.com/Pigot12/Pigot12/blob/main/reddit.png" />
 </a>
 
-<a href="">
-  <img align="left" alt="Pigot | Discord" width="22px" src="https://github.com/Pigot12/Pigot12/blob/main/youtube.png" />
+<a href="https://www.twitch.tv/pigot12_">
+  <img align="left" alt="Pigot | Twitch" width="22px" src="https://github.com/Pigot12/Pigot12/blob/main/twitch.png" />
+</a>
+
+<a href="https://discord.gg/JJVYYG9">
+  <img align="left" alt="Pigot | Discord" width="22px" src="https://github.com/Pigot12/Pigot12/blob/main/discord.png" />
+</a>
+
+<a href="0pigot120@protonmail.com">
+  <img align="left" alt="Pigot | Email" width="22px" src="https://github.com/Pigot12/Pigot12/blob/main/email.png" />
 </a>
 
 # Skills: | Δεξιότητες :
