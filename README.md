@@ -19,29 +19,30 @@
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 
 # Contact me: | Επικοινωνήστε μαζί μου:
-<a href="">
-  <img align="left" alt="Pigot Youtube" width="22px" src="https://github.com/Pigot12/Pigot12/blob/main/youtube.png" />
+
+* [![Youtube](https://img.shields.io/badge/-Pigot12-000?&logo=youtube)](https://www.youtube.com/channel/UCnTVfPUMLGlMwQgU3v3O0sg)
 </a>
 
-<a href="https://twitter.com/Pigot12_">
-  <img align="left" alt="Pigot | Twitter" width="22px" src="https://github.com/Pigot12/Pigot12/blob/main/twitter.png" />
+[![Twitter](https://img.shields.io/badge/-Pigot12_-000?&logo=twitter)](https://twitter.com/Pigot12_)
 </a>
 
-<a href="https://www.reddit.com/user/Pigot12">
-  <img align="left" alt="Pigot | Reddit" width="22px" src="https://github.com/Pigot12/Pigot12/blob/main/reddit.png" />
+[![Reddit](https://img.shields.io/badge/-Pigot12-000?&logo=reddit)](https://www.reddit.com/user/Pigot12)
 </a>
 
-<a href="https://www.twitch.tv/pigot12_">
-  <img align="left" alt="Pigot | Twitch" width="22px" src="https://github.com/Pigot12/Pigot12/blob/main/twitch.png" />
+[![Twitch](https://img.shields.io/badge/-Pigot12_-000?&logo=twitch)](https://www.twitch.tv/pigot12_)
 </a>
 
-<a href="https://discord.gg/JJVYYG9">
-  <img align="left" alt="Pigot | Discord" width="22px" src="https://github.com/Pigot12/Pigot12/blob/main/discord.png" />
+[![Discord](https://img.shields.io/badge/-Link_-000?&logo=discord)](https://discord.gg/JJVYYG9)
+
 </a>
 
-<a href="0pigot120@protonmail.com">
-  <img align="left" alt="Pigot | Email" width="22px" src="https://github.com/Pigot12/Pigot12/blob/main/email.png" />
+[![Email](https://img.shields.io/badge/-Email_-000?&logo=email)](0pigot120@protonmail.com)
+
 </a>
+
+# Template of README.MD : | Πρότυπο του README.MD :
+
+**[![README](https://img.shields.io/badge/-README_-000?&logo=github),](https://github.com/Pigot12/Pigot12).**
 
 # Skills: | Δεξιότητες :
 
