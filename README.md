@@ -64,3 +64,6 @@
 <a href="https://github.com/Pigot12/smallproject" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pigot12&repo=smallproject&theme=merko""></a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pigot12.pigot12)
+
+#Guest Book: | Βιβλίο Επισκεπτών:
+* [![Book](https://img.shields.io/badge/-Guest Book-000?&logo=book)](https://github.com/Pigot12/Pigot12/issues/new)
