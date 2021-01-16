@@ -47,7 +47,7 @@
 
 </a>
 
-# Template of README.MD : | Πρότυπο του README.MD :
+## Template of README.MD : | Πρότυπο του README.MD:
 
 * **[![README](https://img.shields.io/badge/-README_-000?&logo=github),](https://github.com/Pigot12/Pigot12).**
 
