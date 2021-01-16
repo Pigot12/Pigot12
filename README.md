@@ -2,7 +2,7 @@
 # Hello There, I'm @Pigot12 | Καλησπέρα,είμαι ο @Pigot12
 ![](GithubLogo%20(1).png)
 
-[![Website](https://img.shields.io/badge/-Python-000?&logo=java)]()
+[![Website](https://img.shields.io/badge/-Website-000?&logo=java)]()
 # About me | Σχετικά με εμένα
 
 ...
@@ -10,7 +10,12 @@
 
 * 🔭 I’m currently - a Student
 * 🌱 I’m currently learning - Pytohn
-* 👯 I’m looking to collaborate with - Anything related to Python 
+* 👯 I’m looking to collaborate with - Anything related to Python
+[![Website](https://img.shields.io/badge/-I’m looking to collaborate with - Anything related to Python-000?&logo=java)]()
+
+# Buy me a Coffe : | Αγοράστε μου ένα καφεδάκι :
+  <a href="https://www.buymeacoffee.com/pigot12" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 
 # Contact me: | Επικοινωνήστε μαζί μου:
 <a href="">
@@ -29,7 +34,7 @@
   <img align="left" alt="Pigot | Discord" width="22px" src="https://github.com/Pigot12/Pigot12/blob/main/youtube.png" />
 </a>
 
-# Skills: | Δεξιότητες
+# Skills: | Δεξιότητες :
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/Pigot12?tab=repositories&q=&type=&language=python)
 
