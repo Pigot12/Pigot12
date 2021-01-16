@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/-Website-000?&logo=java)]()
 
-<a href="https://samujjwaal.tech/"><img src="https://github.com/Pigot12/Pigot12/blob/main/computer(2).png" align="right" height="200" /></a>
+<a href="https://samujjwaal.tech/"><img src="https://github.com/Pigot12/Pigot12/blob/main/Computer(3).png" align="right" height="300"  /></a>
 
 # About me | Σχετικά με εμένα
 
