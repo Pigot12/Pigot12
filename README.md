@@ -23,9 +23,10 @@
 <a href="">
   <img align="left" alt="Pigot Discord" width="22px" src="https://github.com/Pigot12/Pigot12/blob/main/youtube.png" />
 </a>
-<!-- Optional if you have blogs -->
+
 ## Skills:
 [![Python](https://img.shields.io/badge/Language-Python-red?style=social&logo=appveyor)]()
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- This section you create this variables that are used above -->
