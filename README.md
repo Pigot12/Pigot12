@@ -23,30 +23,30 @@
 * [![Youtube](https://img.shields.io/badge/-Pigot12-000?&logo=youtube)](https://www.youtube.com/channel/UCnTVfPUMLGlMwQgU3v3O0sg)
 </a>
 
-[![Twitter](https://img.shields.io/badge/-Pigot12_-000?&logo=twitter)](https://twitter.com/Pigot12_)
+* [![Twitter](https://img.shields.io/badge/-Pigot12_-000?&logo=twitter)](https://twitter.com/Pigot12_)
 </a>
 
-[![Reddit](https://img.shields.io/badge/-Pigot12-000?&logo=reddit)](https://www.reddit.com/user/Pigot12)
+* [![Reddit](https://img.shields.io/badge/-Pigot12-000?&logo=reddit)](https://www.reddit.com/user/Pigot12)
 </a>
 
-[![Twitch](https://img.shields.io/badge/-Pigot12_-000?&logo=twitch)](https://www.twitch.tv/pigot12_)
+* [![Twitch](https://img.shields.io/badge/-Pigot12_-000?&logo=twitch)](https://www.twitch.tv/pigot12_)
 </a>
 
-[![Discord](https://img.shields.io/badge/-Link_-000?&logo=discord)](https://discord.gg/JJVYYG9)
+* [![Discord](https://img.shields.io/badge/-Link_-000?&logo=discord)](https://discord.gg/JJVYYG9)
 
 </a>
 
-[![Email](https://img.shields.io/badge/-Email_-000?&logo=email)](0pigot120@protonmail.com)
+* [![Email](https://img.shields.io/badge/-Email_-000?&logo=email)](0pigot120@protonmail.com)
 
 </a>
 
 # Template of README.MD : | Πρότυπο του README.MD :
 
-**[![README](https://img.shields.io/badge/-README_-000?&logo=github),](https://github.com/Pigot12/Pigot12).**
+* **[![README](https://img.shields.io/badge/-README_-000?&logo=github),](https://github.com/Pigot12/Pigot12).**
 
 # Skills: | Δεξιότητες :
 
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/Pigot12?tab=repositories&q=&type=&language=python)
+* [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/Pigot12?tab=repositories&q=&type=&language=python)
 
 # Stats : | Στατιστικά :
 
