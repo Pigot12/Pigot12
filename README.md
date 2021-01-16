@@ -2,14 +2,12 @@
 ![](GithubLogo%20(1).png)
 
 [![Website](https://img.shields.io/badge/Website-ClickHere-red?style=flat-square)](https://google.com)
-## Your short description
-- 🔭 I’m currently working on - ❔❔❔❔
-- 🌱 I’m currently learning - ❔❔❔❔
-- 👯 I’m looking to collaborate with - ❔❔❔❔
-- 💬 Ask me about - ❔❔❔❔
-- 🥅 2020 Goal - ❔❔❔❔
-- ⚡ Fun fact - ❔❔❔❔
+## About me | Σχετικά με εμένα
+- 🔭 I’m currently - a Student
+- 🌱 I’m currently learning - Pytohn
+- 👯 I’m looking to collaborate with - Anything related to Python 
 <!-- ❔❔❔❔ means username in below README.md -->
+[![Pigot github stats](https://github-readme-stats.vercel.app/api?Pigot12_=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Also feel free to update second URL to any URL -->
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=❔❔❔❔&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 ## Connect with me:
