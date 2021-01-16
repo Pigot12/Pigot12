@@ -1,5 +1,4 @@
 ### Hello There, I'm @Pigot12_ | Καλησπέρα,είμαι ο @Pigot12_ 
-❮img src="GithubLogo%20(1)" width="100" ❯
 ![](GithubLogo%20(1).png)
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 ## Your short description
