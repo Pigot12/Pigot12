@@ -65,5 +65,5 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pigot12.pigot12)
 
-#Guest Book: | Βιβλίο Επισκεπτών:
-* [![Book](https://img.shields.io/badge/-Guest Book-000?&logo=book)](https://github.com/Pigot12/Pigot12/issues/new)
+# Guest Book: | Βιβλίο Επισκεπτών:
+* [![Book](https://img.shields.io/badge/-Book-000?&logo=book)](https://github.com/Pigot12/Pigot12/issues/new)
