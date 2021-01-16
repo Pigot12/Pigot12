@@ -1,5 +1,5 @@
 
-# Hello There, I'm @Pigot12 | Καλησπέρα,είμαι ο @Pigot12
+# Hello There, I'm [Pigot12](https://github.com/Pigot12) | Καλησπέρα,είμαι ο [Pigot12](https://github.com/Pigot12)
 ![](GithubLogo%20(1).png)
 
 [![Website](https://img.shields.io/badge/-Website-000?&logo=java)]()
@@ -11,15 +11,14 @@
 ...
 
 
-* 🏫 I’m currently:  Student
-* 🐍 I’m currently learning: Pytohn
-* 🔍 I’m looking to collaborate with: Anything related to Python
-* 📖 Pronouns: he/him
+* **🏫 I’m currently:  Student**
+* 🐍 **I’m currently learning: [Pytohn](https://www.python.org/)**
+* 🔍 **I’m looking to collaborate with: Anything related to [Python](https://www.python.org/)**
+* 📖 **Pronouns: he/him**
 
 
 # Buy me a Coffe : | Αγοράστε μου ένα καφεδάκι :
-  <a href="https://www.buymeacoffee.com/pigot12" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+* [![Coffe](https://img.shields.io/badge/-Buy%20me%20a%20coffe-000?&logo=coffe)](https://www.buymeacoffee.com/pigot12)
 
 <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
   <img align="right"
@@ -47,7 +46,7 @@
 
 </a>
 
-* [![Email](https://img.shields.io/badge/-Email%200pigot120@protonmail.com_-000?&logo=email)](0pigot120@protonmail.com)
+* [![Email](https://img.shields.io/badge/-Email%20:%20pigot120@protonmail.com_-000?&logo=email)](0pigot120@protonmail.com)
 
 </a>
 
