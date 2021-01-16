@@ -3,6 +3,9 @@
 ![](GithubLogo%20(1).png)
 
 [![Website](https://img.shields.io/badge/-Website-000?&logo=java)]()
+
+<a href="https://samujjwaal.tech/"><img src="https://github.com/Pigot12/Pigot12/blob/main/computer(2).png" align="right" height="200" /></a>
+
 # About me | Σχετικά με εμένα
 
 ...
@@ -44,7 +47,7 @@
 
 </a>
 
-* [![Email](https://img.shields.io/badge/-Email_-000?&logo=email)](0pigot120@protonmail.com)
+* [![Email](https://img.shields.io/badge/-Email%200pigot120@protonmail.com_-000?&logo=email)](0pigot120@protonmail.com)
 
 </a>
 
@@ -65,6 +68,10 @@
 <a href="https://github.com/Pigot12/smallproject" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pigot12&repo=smallproject&theme=merko""></a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pigot12.pigot12)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-200%20hundred%20lines%20of%20code-red)
+
+# Small Game : | Μικρό παιχνίδι :
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Guest Book: | Βιβλίο Επισκεπτών:
 * [![Book](https://img.shields.io/badge/-Book-000?&logo=book)](https://github.com/Pigot12/Pigot12/issues/new)
