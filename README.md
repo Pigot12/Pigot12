@@ -6,9 +6,9 @@
 - 🔭 I’m currently - a Student
 - 🌱 I’m currently learning - Pytohn
 - 👯 I’m looking to collaborate with - Anything related to Python 
-<!-- ❔❔❔❔ means username in below README.md -->
-[![Pigot github stats](https://github-readme-stats.vercel.app/api?Pigot12_=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<!-- Also feel free to update second URL to any URL -->
+
+[![Pigot github stats](https://github-readme-stats.vercel.app/api?Pigot12=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=❔❔❔❔&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
