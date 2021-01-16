@@ -18,6 +18,13 @@
   <a href="https://www.buymeacoffee.com/pigot12" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 
+<a href="https://github.com/kittinan/spotify-github-profile" target="black">
+  <img align="right"
+    src="https://spotify-github-profile.vercel.app/api/view?uid=k4jkgsc6vq2boan1t2ajvxvee&cover_image=true"
+    alt="spotify" />
+</a>
+
+
 # Contact me: | Επικοινωνήστε μαζί μου:
 
 * [![Youtube](https://img.shields.io/badge/-Pigot12-000?&logo=youtube)](https://www.youtube.com/channel/UCnTVfPUMLGlMwQgU3v3O0sg)
@@ -56,3 +63,4 @@
 <a href="https://github.com/Pigot12/onlinecoursesvertex" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pigot12&repo=onlinecoursesvertex&theme=merko""></a>
 <a href="https://github.com/Pigot12/smallproject" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pigot12&repo=smallproject&theme=merko""></a>
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pigot12.pigot12)
