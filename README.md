@@ -26,5 +26,5 @@
 </a>
 
 # Skills: | Δεξιότητες
-
+</b>
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
