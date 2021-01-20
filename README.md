@@ -47,7 +47,7 @@
 
 </a>
 
-* [![Email](https://img.shields.io/badge/-Email%20:%20pigot120@protonmail.com_-F9A03C?&logo=email)](0pigot120@protonmail.com)
+* [![Email](https://img.shields.io/badge/-Email%20:%20pigot120@protonmail.com_-F9A03C?&logo=Gmail)](mailto:0pigot120@protonmail.com)
 
 </a>
 
@@ -66,6 +66,10 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pigot12&theme=merko" />
 <a href="https://github.com/Pigot12/onlinecoursesvertex" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pigot12&repo=onlinecoursesvertex&theme=merko""></a>
 <a href="https://github.com/Pigot12/smallproject" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pigot12&repo=smallproject&theme=merko""></a>
+
+# Latest Tweet : | Τελευταίο Tweet :
+
+[<img src="https://github.com/Pigot12/Pigot12/blob/main/Latest_Tweet.png" width="400">](https://twitter.com/Pigot12_/status/1341845436424970241)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pigot12.pigot12)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-200%20hundred%20lines%20of%20code-red)
