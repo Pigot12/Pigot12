@@ -61,11 +61,11 @@
 
 # Stats : | Στατιστικά :
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pigot12&show_icons=true&count_private=true&theme=merko" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pigot12&layout=compact&count_private=true&theme=merko" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pigot12&theme=merko" />
-<a href="https://github.com/Pigot12/onlinecoursesvertex" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pigot12&repo=onlinecoursesvertex&theme=merko""></a>
-<a href="https://github.com/Pigot12/smallproject" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pigot12&repo=smallproject&theme=merko""></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pigot12&show_icons=true&count_private=true&theme=highcontrast" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pigot12&layout=compact&count_private=true&theme=great-gatsby" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pigot12&theme=chartreuse-dark" />
+<a href="https://github.com/Pigot12/onlinecoursesvertex" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pigot12&repo=onlinecoursesvertex&theme=vision-friendly-dark""></a>
+<a href="https://github.com/Pigot12/smallproject" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pigot12&repo=smallproject&theme=midnight-purple""></a>
 
 # Latest Tweet : | Τελευταίο Tweet :
 
@@ -79,4 +79,3 @@
 
 # Guest Book: | Βιβλίο Επισκεπτών:
 * [![Book](https://img.shields.io/badge/-Book-43853d?&logo=book)](https://github.com/Pigot12/Pigot12/issues/new)
-
