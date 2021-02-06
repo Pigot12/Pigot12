@@ -75,7 +75,7 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-200%20hundred%20lines%20of%20code-red)
 
 # Small Game : | Μικρό παιχνίδι :
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+* [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPigot12%2FPigot12&count_bg=%23FF0000&title_bg=%23000000&icon=laravelhorizon.svg&icon_color=%23FF0000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 # Guest Book: | Βιβλίο Επισκεπτών:
 * [![Book](https://img.shields.io/badge/-Book-43853d?&logo=book)](https://github.com/Pigot12/Pigot12/issues/new)
