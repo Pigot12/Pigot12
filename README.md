@@ -24,7 +24,7 @@
 * 🇬🇷**I'm from Greece**
 
 
-# Buy me a Coffe : | Αγοράστε μου ένα καφεδάκι :
+## Buy me a Coffe : | Αγοράστε μου ένα καφεδάκι :
 | [![Coffe](https://img.shields.io/badge/-Buy%20me%20a%20coffe-5849BE?&logo=coffe)](https://www.buymeacoffee.com/pigot12) |
 
 <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
@@ -61,7 +61,7 @@
 
 [<img src="https://github.com/Pigot12/Pigot12/blob/main/Latest_Tweet.png" width="400">](https://twitter.com/Pigot12_/status/1341845436424970241)
 
-| ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pigot12.pigot12) | ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-200%20hundred%20lines%20of%20code-red) |
+| ![](https://komarev.com/ghpvc/?username=Pigot12&color=dc143c) | ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-200%20hundred%20lines%20of%20code-red) |
 
 # Small Game : | Μικρό παιχνίδι :
 | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPigot12%2FPigot12&count_bg=%23FF0000&title_bg=%23000000&icon=laravelhorizon.svg&icon_color=%db7092&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) |
