@@ -24,20 +24,20 @@ A 15 year old Web Developer
   
 </td><td valign="top" width="33%">
   
-  [![Website](https://img.shields.io/badge/-Website-45b8d8?&logo=java)]()
-  [![Youtube](https://img.shields.io/badge/-Pigot12-311C87?&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnTVfPUMLGlMwQgU3v3O0sg)
-  [![Twitter](https://img.shields.io/badge/-Pigot12_-430098?&logo=twitter)](https://twitter.com/Pigot12_)
-  [![Reddit](https://img.shields.io/badge/-Pigot12-764ABC?&logo=reddit)](https://www.reddit.com/user/Pigot12)
-  [![Twitch](https://img.shields.io/badge/-Pigot12_-B7178C?&logo=twitch)](https://www.twitch.tv/pigot12_)
-  [![Discord](https://img.shields.io/badge/-Pigot%2012%20Server_-E10098?&logo=discord)](https://discord.gg/JJVYYG9)
-  [![Email](https://img.shields.io/badge/-Email%20:%20pigot120@protonmail.com_-CC6699?&logo=Gmail)](mailto:0pigot120@protonmail.com)
+  [![Website](https://img.shields.io/badge/-Website-45b8d8?&logo=java)]()<br>
+  [![Youtube](https://img.shields.io/badge/-Pigot12-311C87?&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnTVfPUMLGlMwQgU3v3O0sg)<br>
+  [![Twitter](https://img.shields.io/badge/-Pigot12_-430098?&logo=twitter)](https://twitter.com/Pigot12_)<br>
+  [![Reddit](https://img.shields.io/badge/-Pigot12-764ABC?&logo=reddit)](https://www.reddit.com/user/Pigot12)<br>
+  [![Twitch](https://img.shields.io/badge/-Pigot12_-B7178C?&logo=twitch)](https://www.twitch.tv/pigot12_)<br>
+  [![Discord](https://img.shields.io/badge/-Pigot%2012%20Server_-E10098?&logo=discord)](https://discord.gg/JJVYYG9)<br>
+  [![Email](https://img.shields.io/badge/-Email%20:%20pigot120@protonmail.com_-CC6699?&logo=Gmail)](mailto:0pigot120@protonmail.com)<br>
   
   
 </tr><td valign="top" width="33%">
   
-   [![Python](https://img.shields.io/badge/-Python-13aa52?&logo=python)](https://github.com/Pigot12?tab=repositories&q=&type=&language=python)
-   [![Html](https://img.shields.io/badge/-Html-13aa52?&logo=html)](https://github.com/Pigot12?tab=repositories&q=&type=&language=python)
-   [![Css](https://img.shields.io/badge/-Css-13aa52?&logo=css)](https://github.com/Pigot12?tab=repositories&q=&type=&language=python)
+   [![Html](https://img.shields.io/badge/-Html-13aa52?&logo=html)](https://github.com/Pigot12?tab=repositories&q=&type=&language=html)<br>
+   [![Css](https://img.shields.io/badge/-Css-13aa52?&logo=css)](https://github.com/Pigot12?tab=repositories&q=&type=&language=css)<br>
+   [![Python](https://img.shields.io/badge/-Python-13aa52?&logo=python)](https://github.com/Pigot12?tab=repositories&q=&type=&language=python)<br>
   
 </td><td valign="top" width="33%">
 
