@@ -1,11 +1,13 @@
 # Hello There, I'm [Pigot12](https://github.com/Pigot12) | Καλησπέρα,είμαι ο [Pigot12](https://github.com/Pigot12)
 ![](GithubLogo%20(1).png)
 
-A 15 year old Web Developer 
 <table width="800px">
 <tr>
 <td valign="top" width="30%">
-
+ A 15 year old Web Developer 
+</tr>
+<td valign="top" width="30%">
+  
   [![Job1](https://img.shields.io/badge/-🏫High%20School%20Student-8DD6F9?&logo=)]()<br>
   [![Collaboration](https://img.shields.io/badge/-🔍With%20Anything%20and%20Anyone-8DD6F9?&logo=)]()<br>
   [![Learning](https://img.shields.io/badge/-📖Learning%20Java%20Script-46a2f1?&logo=)]()<br>
