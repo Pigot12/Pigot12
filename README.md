@@ -1,22 +1,29 @@
-# Hello There, I'm [Pigot12](https://github.com/Pigot12) | Καλησπέρα,είμαι ο [Pigot12](https://github.com/Pigot12)
+# Hello There, I'm [Pigot12](https://github.com/Pigot12) <img src="https://user-images.githubusercontent.com/45109176/173185592-b70daeb6-2825-4952-83fc-d5c7e9d50f89.png" alt="greece" width="40"/> 
+
+
 ![](GithubLogo%20(1).png)
 
 <table width="800px">
-<tr>
-<td valign="top" width="2000px" align="center">
- A 15 year old Web Developer 
- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-</tr>
+
 
 <table width="800px">
-<td valign="top" width="30%" align="center">
-  
-  [![Job1](https://img.shields.io/badge/-🏫High%20School%20Student-8DD6F9?&logo=)]()
-  [![Collaboration](https://img.shields.io/badge/-🔍With%20Anything%20and%20Anyone-8DD6F9?&logo=)]()
-  [![Learning](https://img.shields.io/badge/-📖Learning%20Java%20Script-46a2f1?&logo=)]()
-  [![Pronanounce](https://img.shields.io/badge/-He/Him-1a73e8?&logo=)]()
-  [![Country](https://img.shields.io/badge/-🇬🇷Greece-007ACC?&logo=)]()
-  
+ 
+<tr><td valign="top" width="10%" align="center">
+<img align='left' src='https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif' width='200'>
+ 
+ <td valign="top" width="10%" align="center">
+Pigot12 is a 16 year old web designer.  
+  <td valign="top" width="10%" align="center">
+   
+
+ 
+ </tr><td valign="top" width="10%" align="left">
+  <h2>Facts about me:</h2>
+<h4>- High School Student</h4>
+<h4>-I'm currenly learning <img src="https://img.shields.io/badge/Java-Script-%2312100E.svg?logo=javascript&style=for-the-badge&logoColor=yellow"> </h4>
+<h4>-Pronances <img src="https://img.shields.io/badge/He-Him-%2312100E.svg?logo=&style=for-the-badge&logoColor=yellow"></h4>
+ <h4>-Fun fact:I mostly use <img src="https://img.shields.io/badge/HTML-%2312100E.svg?logo=html&style=for-the-badge&logoColor=yellow"> to programme</h4>
+ 
 </td><td valign="top" width="34%" align="center">
   
   <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
@@ -28,21 +35,22 @@
 </a>
 
 </td><td valign="top" width="33%" align="center">
-  
-  [![Website](https://img.shields.io/badge/-Website-45b8d8?&logo=java)]()
-  [![Youtube](https://img.shields.io/badge/-Pigot12-311C87?&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnTVfPUMLGlMwQgU3v3O0sg)
+ <h2>You can:</h2> 
+ -join my <img src="https://img.shields.io/badge/-%2312100E.svg?logo=discord&style=for-the-badge&logoColor=yellow" href="https://discord.gg/JxA7WBDrts"> Server<br>
+ -(watch) my<img src="https://img.shields.io/badge/-%2312100E.svg?logo=youtube&style=for-the-badge&logoColor=yellow"><br>
+ -send me a message on <img src="https://img.shields.io/badge/-%2312100E.svg?logo=twitter&style=for-the-badge&logoColor=yellow"> videos<br>
+ -watch me live on<img src="https://img.shields.io/badge/-%2312100E.svg?logo=twitch&style=for-the-badge&logoColor=yellow"><br>
+ -watch me on<img src="https://img.shields.io/badge/-%2312100E.svg?logo=vimeo&style=for-the-badge&logoColor=yellow"><br>
+
   [![Twitter](https://img.shields.io/badge/-Pigot12_-430098?&logo=twitter)](https://twitter.com/Pigot12_)
   [![Reddit](https://img.shields.io/badge/-Pigot12-764ABC?&logo=reddit)](https://www.reddit.com/user/Pigot12)
-  [![Twitch](https://img.shields.io/badge/-Pigot12_-B7178C?&logo=twitch)](https://www.twitch.tv/pigot12_)
-  [![Vimeo](https://img.shields.io/badge/-Pigot12_-B7178C?&logo=vimeo)](https://vimeo.com/pigot12)
-  [![Discord](https://img.shields.io/badge/-Pigot%2012%20Server_-E10098?&logo=discord)](https://discord.gg/JJVYYG9)
   
   
 </tr><td valign="top" width="33%" align="center">
-  
-   [![Html](https://img.shields.io/badge/-Html-13aa52?&logo=html5)](https://github.com/Pigot12?tab=repositories&q=&type=&language=html)
-   [![Css](https://img.shields.io/badge/-Css-13aa52?&logo=css3)](https://github.com/Pigot12?tab=repositories&q=&type=&language=css)
-   [![Python](https://img.shields.io/badge/-Python-13aa52?&logo=python)](https://github.com/Pigot12?tab=repositories&q=&type=&language=python)
+ <h2>I code in:</h2>
+   -<img src="https://img.shields.io/badge/HTML-%2312100E.svg?logo=html&style=for-the-badge&logoColor=yellow">(https://github.com/Pigot12?tab=repositories&q=&type=&language=html) for <br>
+   -<img src="https://img.shields.io/badge/CSS-%2312100E.svg?logo=css&style=for-the-badge&logoColor=yellow">(https://github.com/Pigot12?tab=repositories&q=&type=&language=css) for <br>
+   -<img src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow">(https://github.com/Pigot12?tab=repositories&q=&type=&language=python) for <br>
   
 </td><td valign="top" width="33%" align="center">
  
