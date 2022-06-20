@@ -52,8 +52,9 @@
   </td></tr>
 
   <td valign="top" width="34%" align="center">
-    <h2>I'm listening:</h2>
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=k4jkgsc6vq2boan1t2ajvxvee&cover_image=true&theme=novatorem&bar_color=09ff00&bar_color_cover=true" >
+    <h2>I'm doing:</h2>
+ <img src="https://lanyard.cnrad.dev/api/379672991014977537?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px" alt="Discord Status">
+ 
   </td>
 
   <td valign="top" width="33%" align="center">
