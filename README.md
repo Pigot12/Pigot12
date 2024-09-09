@@ -1,5 +1,3 @@
-<h1> Hello There, I'm <a href="https://github.com/Pigot12">Pigot12<img src="https://user-images.githubusercontent.com/45109176/173185592-b70daeb6-2825-4952-83fc-d5c7e9d50f89.png" alt="flag of greece" width="40"/><a></h1>
-
 
 <img src="GithubLogo%20(1).png">
 
@@ -14,7 +12,7 @@
  </td>
  
   <td valign="top" width="10%" align="center">
-    <b>Pigot12 is a 16 year old web designer.</b> 
+    <b>👋Pigot12 is an undergraduate student in the Department of Digital Systems at the University of Piraeus (ΠΑΠΕΙ).  Passionate about technology and education-focused startups. His interests span from programming languages to business podcasts. He is always exploring new ideas and seeking opportunities to innovate in the EdTech space. </b> 
   </tr></td>
 
   <td valign="top" width="10%" align="left">
@@ -36,10 +34,10 @@
  </td></tr>
  
   <td valign="top" width="33%" align="center">
-    <h2>I code in:</h2>
-      <h4>- <a href="https://github.com/Pigot12?tab=repositories&q=&type=&language=html"><img src="https://img.shields.io/badge/HTML-%2312100E.svg?logo=html&style=for-the-badge&logoColor=yellow"></a> for <br></h4>
-      <h4>- <a href="https://github.com/Pigot12?tab=repositories&q=&type=&language=css"><img src="https://img.shields.io/badge/CSS-%2312100E.svg?logo=css&style=for-the-badge&logoColor=yellow"></a> for <br></h4>
-      <h4>- <a href="https://github.com/Pigot12?tab=repositories&q=&type=&language=python"><img src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"></a> for <br></h4>
+    <h2>Skills:</h2>
+      <p> <a href="https://github.com/Pigot12?tab=repositories&q=&type=&language=html"><img src="https://img.shields.io/badge/HTML-%2312100E.svg?logo=html&style=for-the-badge&logoColor=yellow"></a> for </p>
+      <p> <a href="https://github.com/Pigot12?tab=repositories&q=&type=&language=css"><img src="https://img.shields.io/badge/CSS-%2312100E.svg?logo=css&style=for-the-badge&logoColor=yellow"></a> for </p>
+      <p> <a href="https://github.com/Pigot12?tab=repositories&q=&type=&language=python"><img src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"></a> for <br></p>
   
   </td>
 
@@ -69,7 +67,6 @@
   </td>
 
   <td valign="top" width="33%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pigot12" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pigot12" />
   </td>
 
