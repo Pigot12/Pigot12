@@ -8,7 +8,6 @@
 <tr>
   <td valign="top" width="10%" align="center">
     <img align='left' src='https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif' width='200'>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=pigot12.pigot12"/>
  </td>
  
   <td valign="top" width="10%" align="center">
@@ -17,15 +16,14 @@
 
   <td valign="top" width="10%" align="left">
     <h2>Facts about me:</h2>
-      <h4>- <img src="https://img.shields.io/badge/High-School-%2312100E.svg?logo=&style=for-the-badge&logoColor=yellow"> Student</h4>
       <h4>-I'm currenly learning <img src="https://img.shields.io/badge/Java-Script-%2312100E.svg?logo=javascript&style=for-the-badge&logoColor=yellow"> </h4>
       <h4>-Pronances <img src="https://img.shields.io/badge/He-Him-%2312100E.svg?logo=&style=for-the-badge&logoColor=yellow"></h4>
-      <h4>-Fun fact:I mostly use <img src="https://img.shields.io/badge/HTML-%2312100E.svg?logo=html&style=for-the-badge&logoColor=yellow"> to programme</h4>
+      <h4>-Fun fact:I like <img src="https://img.shields.io/badge/Linux-%2312100E.svg?logo=linux&style=for-the-badge&logoColor=yellow"></h4>
    </td>
 
   <td valign="top" width="33%" align="center">
     <h2>You can:</h2> 
-    <h4>-join my <a href="https://discord.gg/JxA7WBDrts"><img src="https://img.shields.io/badge/-%2312100E.svg?logo=discord&style=for-the-badge&logoColor=yellow" ></a>  Server</h4><br>
+    <h4>-Join my <a href="https://discord.gg/JxA7WBDrts"><img src="https://img.shields.io/badge/-%2312100E.svg?logo=discord&style=for-the-badge&logoColor=yellow" ></a>  Server</h4><br>
     <h4>-(watch) my<img src="https://img.shields.io/badge/-%2312100E.svg?logo=youtube&style=for-the-badge&logoColor=yellow"></h4><br>
     <h4>-send me a message on <a href="https://twitter.com/Pigot12_"><img src="https://img.shields.io/badge/-%2312100E.svg?logo=twitter&style=for-the-badge&logoColor=yellow"> </a>videos</h4><br>
     <h4>-watch me live on<a href="https://www.twitch.tv/pigot12_"><img src="https://img.shields.io/badge/-%2312100E.svg?logo=twitch&style=for-the-badge&logoColor=yellow"></a></h4><br>
