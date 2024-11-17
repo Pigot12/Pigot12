@@ -18,7 +18,7 @@
     <h2>Facts about me:</h2>
       <h4>-I'm currenly learning <img src="https://img.shields.io/badge/Java-Script-%2312100E.svg?logo=javascript&style=for-the-badge&logoColor=yellow"> </h4>
       <h4>-Pronances <img src="https://img.shields.io/badge/He-Him-%2312100E.svg?logo=&style=for-the-badge&logoColor=yellow"></h4>
-      <h4>-Fun fact:I like <img src="https://img.shields.io/badge/Linux-%2312100E.svg?logo=linux&style=for-the-badge&logoColor=yellow"></h4>
+      <h4>-Fun fact:In high school, I wrote a 15-page plan to revolutionize Ethereal Oil production. The plan had big dreams—and zero prototypes.</h4>
    </td>
 
   <td valign="top" width="33%" align="center">
